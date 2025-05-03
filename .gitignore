@@ -1,0 +1,17 @@
+# ну сюда надо будет написать, чтобы он не коммитил лишнего
+
+# JetBrains IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Файлы окружения
+.env
